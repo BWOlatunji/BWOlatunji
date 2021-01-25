@@ -4,5 +4,4 @@
 - :office: I’m currently working at <b> Business Data Laboratory </b>
 - 🌱 I’m currently learning Azure DevOps
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/bilikisuaderinto/">LinkedIn</a> | <a href="https://github.com/BAderinto">Github</a> | <a href="https://twitter.com/qbwoa">Twitter</a>
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: I love Nature ♥ 
