@@ -1,7 +1,7 @@
 <h1 align="center"> Hi there 👋 I'm Bilikisu Wunmi Aderinto</h1>
+<h3 align="center"> Business Data Analyst | MERN Stack | Open Source ♥ | Devops | Competitive Programmer  🚀</h3>
 
-
-- 🔭 I’m currently working as a Business Data Analyst at ** Business Data Laboratory**
+- :office: I’m currently working at ** Business Data Laboratory **
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
