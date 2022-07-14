@@ -1,4 +1,4 @@
-<h1 align="center"> Hi there 👋 I'm Bilikisu Wunmi Aderinto</h1>
+<h1 align="center"> Hi there 👋 I'm Bilikisu Wunmi Olatunji</h1>
 <h3 align="center"> Business Data Analyst | R Shiny Developer | Power BI Developer | RStudio Certified Tidyverse Instructor </h3>
 
 - :office: I’m currently working at <b> Business Data Laboratory </b>
