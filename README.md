@@ -1,7 +1,7 @@
 <h1 align="center"> Hi there 👋 I'm Bilikisu Wunmi Olatunji</h1>
-<h3 align="center"> Founderd, Data Scientist </h3>
+<h3 align="center"> Founder, Data Scientist </h3>
 
-- :office: I’m currently working at <b> Business Data Laboratory </b> where I work as the Product Lead, Data Scientist with special interest in Geospatial Analysis. 
+- :office: I’m currently working at <b> Business Data Laboratory </b> where I work as the Product Manager, Data Science and Analytics. 
 - 🌱 I’m currently Founder and co-organizer of R-Ladies Abuja ♥ and Abuja RUser Group 🚀
 - :handbag: R, R Shiny, Power BI, MS Excel, SQL, HTML, CSS, JavaScript, d3js, ReactJs.
 - :trophy: Scrum Master Certified, Product Owner Certified, Agile Master Certified, Scaled Scrum Master Certfified, Scaled Product Owner Certified
